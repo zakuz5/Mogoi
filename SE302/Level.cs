@@ -4,6 +4,7 @@ namespace SE302
 	public class Level
 	{
 		public static int HEIGHT = 25, WIDTH = 80;
+		public const int WALL = 1, EMPTY = 0;
 		public static int[,] map = new int[HEIGHT, WIDTH];
 		public static int speed = 300;
 		public Level()
@@ -20,12 +21,12 @@ namespace SE302
 					if (i == 0 || j == 0 || i == HEIGHT - 1 || j == WIDTH - 1)
 					{
 						// 1 - saad, hana
-						map[i, j] = 1;
+						map[i, j] = WALL;
 					}
 					else
 					{
 						// 0 - hooson talbai
-						map[i, j] = 0;
+						map[i, j] = EMPTY;
 					}
 				}
 			}
