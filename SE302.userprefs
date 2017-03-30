@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{E64D874C-01F1-43ED-82AE-291687466D4F}|Default">
   <MonoDevelop.Ide.ItemProperties.SE302 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SE302/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SE302/Snake.cs">
     <Files>
-      <File FileName="SE302/Program.cs" Line="11" Column="34" />
-      <File FileName="SE302/Snake.cs" Line="22" Column="4" />
+      <File FileName="SE302/Program.cs" Line="10" Column="32" />
+      <File FileName="SE302/Snake.cs" Line="18" Column="20" />
       <File FileName="SE302/Food.cs" Line="9" Column="3" />
-      <File FileName="SE302/Display.cs" Line="11" Column="4" />
+      <File FileName="SE302/Display.cs" Line="7" Column="4" />
       <File FileName="SE302/Level.cs" Line="10" Column="4" />
       <File FileName="SE302/Point.cs" Line="10" Column="15" />
-      <File FileName="SE302/Game.cs" Line="11" Column="4" />
+      <File FileName="SE302/Game.cs" Line="4" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
