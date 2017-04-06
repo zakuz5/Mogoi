@@ -9,6 +9,5 @@ namespace SE302
 			this.x = x;
 			this.y = y;
 		}
-		public Point() { }
 	}
 }

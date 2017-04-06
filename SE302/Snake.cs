@@ -69,7 +69,7 @@ namespace SE302
 
 		private void grow(Food food)
 		{
-			lenght++;
+			body[lenght]
 		}
 		private void turn(int direction = 0)
 		{
